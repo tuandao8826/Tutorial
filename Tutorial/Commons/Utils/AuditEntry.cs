@@ -12,6 +12,12 @@ namespace Tutorial.Commons.Utils
         {
             Entry = entry;
         }
+
+        public AuditEntry()
+        {
+
+        }
+
         public EntityEntry Entry { get; }
         public string UserId { get; set; }
         public string TableName { get; set; }

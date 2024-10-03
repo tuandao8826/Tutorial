@@ -26,6 +26,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// Add Audit Logging Extention
+app.UseMiddleware<AuditLoggingExtention>();
+
 app.UseAuthorization();
 
 app.MapControllers();
