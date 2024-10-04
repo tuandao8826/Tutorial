@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial", "Tutorial\Tutorial.csproj", "{92997414-EED5-468E-AB2F-42B91532011E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial", "Tutorial\Tutorial.csproj", "{92997414-EED5-468E-AB2F-42B91532011E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackgroundJob", "BackgroundJob", "{C827D3BF-667D-433F-AF95-1E0502458B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundJob.API", "BackgroundJob.API\BackgroundJob.API.csproj", "{48D7EB33-0949-4043-B5B1-ECE7A4488FB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{92997414-EED5-468E-AB2F-42B91532011E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92997414-EED5-468E-AB2F-42B91532011E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92997414-EED5-468E-AB2F-42B91532011E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D7EB33-0949-4043-B5B1-ECE7A4488FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D7EB33-0949-4043-B5B1-ECE7A4488FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D7EB33-0949-4043-B5B1-ECE7A4488FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D7EB33-0949-4043-B5B1-ECE7A4488FB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{48D7EB33-0949-4043-B5B1-ECE7A4488FB6} = {C827D3BF-667D-433F-AF95-1E0502458B63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {086FF2C0-F747-4DCD-879F-793C0D1A4BE2}

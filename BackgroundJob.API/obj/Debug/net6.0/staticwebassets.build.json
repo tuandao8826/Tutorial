@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rDczf4UaGk1+jiGCnbu5YrnoeU1I1Hu9/RLnlqV5DIw=",
+  "Source": "BackgroundJob.API",
+  "BasePath": "_content/BackgroundJob.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
