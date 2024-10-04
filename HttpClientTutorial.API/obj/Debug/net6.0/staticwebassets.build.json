@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GDYB2jkahPXbip+09UfxrWUFhp0Sjo7i8/Cb+k4izwU=",
+  "Source": "HttpClientTutorial.API",
+  "BasePath": "_content/HttpClientTutorial.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

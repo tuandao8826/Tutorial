@@ -1,0 +1,8 @@
+E:\TuanDao\Project\Tutorial\TestABP\obj\Debug\net6.0\TestABP.csproj.AssemblyReference.cache
+E:\TuanDao\Project\Tutorial\TestABP\obj\Debug\net6.0\TestABP.GeneratedMSBuildEditorConfig.editorconfig
+E:\TuanDao\Project\Tutorial\TestABP\obj\Debug\net6.0\TestABP.AssemblyInfoInputs.cache
+E:\TuanDao\Project\Tutorial\TestABP\obj\Debug\net6.0\TestABP.AssemblyInfo.cs
+E:\TuanDao\Project\Tutorial\TestABP\obj\Debug\net6.0\TestABP.csproj.CoreCompileInputs.cache
+E:\TuanDao\Project\Tutorial\TestABP\obj\Debug\net6.0\TestABP.MvcApplicationPartsAssemblyInfo.cs
+E:\TuanDao\Project\Tutorial\TestABP\obj\Debug\net6.0\TestABP.MvcApplicationPartsAssemblyInfo.cache
+E:\TuanDao\Project\Tutorial\TestABP\obj\Debug\net6.0\TestABP.sourcelink.json
