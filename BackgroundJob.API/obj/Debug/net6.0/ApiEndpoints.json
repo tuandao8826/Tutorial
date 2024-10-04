@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "BackgroundJob.API.Controllers.JobController",
+    "Method": "CreateContinuationJob",
+    "RelativePath": "api/Job/ContinuationJob",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackgroundJob.API.Controllers.JobController",
+    "Method": "CreateDelayedJob",
+    "RelativePath": "api/Job/DelayedJob",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackgroundJob.API.Controllers.JobController",
+    "Method": "CreateFireAndForgetJob",
+    "RelativePath": "api/Job/FireAndForgetJob",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackgroundJob.API.Controllers.JobController",
+    "Method": "CreateRecurringJob",
+    "RelativePath": "api/Job/RecurringJob",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

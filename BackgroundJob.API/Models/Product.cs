@@ -1,4 +1,4 @@
-﻿namespace Tutorial.Models
+﻿namespace BackgroundJob.API.Models
 {
     public class Product : BaseEntity
     {

@@ -1,8 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Tutorial.Commons.Enums;
-using Tutorial.Commons.Utils;
 
-namespace Tutorial.Models
+namespace BackgroundJob.API.Models
 {
     public class ProductDbContext : DbContext
     {

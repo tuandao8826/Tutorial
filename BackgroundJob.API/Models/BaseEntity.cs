@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Tutorial.Models
+namespace BackgroundJob.API.Models
 {
     public class BaseEntity
     {

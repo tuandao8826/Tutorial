@@ -18,11 +18,11 @@ namespace BackgroundJob.API.Controllers
             this._recurringJobManager = recurringJobManager;
         }
 
-        [HttpGet("BackupDatabase")]
+        /*[HttpGet("BackupDatabase")]
         public ActionResult BackupDatabase()
         {
             _recurringJobManager.AddOrUpdate("BackupDB", () => _backupDatabaseService.BackupDatabase("ProductTutorial"), Cron.Minutely);
             return Ok();
-        }
+        }*/
     }
 }
