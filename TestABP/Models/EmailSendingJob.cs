@@ -3,7 +3,7 @@ using Volo.Abp.DependencyInjection;
 
 namespace TestABP.Models
 {
-    public class EmailSendingJob : AsyncBackgroundJob<EmailSendingArgs>, ITransientDependency
+    /*public class EmailSendingJob : AsyncBackgroundJob<EmailSendingArgs>, ITransientDependency
     {
         //private readonly IEmailSender _emailSender;
 
@@ -20,5 +20,5 @@ namespace TestABP.Models
         //        args.Body
         //    );
         //}
-    }
+    }*/
 }
