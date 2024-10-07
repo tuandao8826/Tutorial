@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
+    "Method": "Get",
+    "RelativePath": "api/TestHttpClient/GetDataAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
