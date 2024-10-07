@@ -132,3 +132,5 @@ E:\TuanDao\Project\Tutorial\Tutorial\obj\Debug\net6.0\refint\Tutorial.dll
 E:\TuanDao\Project\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.pdb
 E:\TuanDao\Project\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.genruntimeconfig.cache
 E:\TuanDao\Project\Tutorial\Tutorial\obj\Debug\net6.0\ref\Tutorial.dll
+E:\TuanDao\Project\Tutorial\Tutorial\bin\Debug\net6.0\AutoMapper.dll
+E:\TuanDao\Project\Tutorial\Tutorial\bin\Debug\net6.0\Serilog.dll
