@@ -19,26 +19,22 @@ namespace Tutorial.Infrastructure.Facades.Common.HttpClients;
 public class HttpClientSender : IHttpClientSender
 {
     private readonly IMapper _mapper;
-    private readonly IHttpClientFactory _httpClientFactory;
-    private HttpClient _defaultHttpClient;
     private HttpRequestMessage _request = new HttpRequestMessage();
     private bool _isDefaultlog = true;
     private HttpClient? _httpClient;
 
-    //private static readonly SocketsHttpHandler _handler = new()
-    //{
-    //    PooledConnectionLifetime = TimeSpan.FromMinutes(2),
-    //};
+    private static readonly SocketsHttpHandler _handler = new()
+    {
+        PooledConnectionLifetime = TimeSpan.FromMinutes(2),
+    };
 
-    //// - Tái sử dụng HttpClient để tránh hết Socket: sử dụng Static để new instance một lần
-    //// duy nhất khi lớp HttpClientSender được sử dụng lần đầu tiền
-    //private static readonly HttpClient _defaultHttpClient = new(_handler);
+    // - Tái sử dụng HttpClient để tránh hết Socket: sử dụng Static để new instance một lần
+    // duy nhất khi lớp HttpClientSender được sử dụng lần đầu tiền
+    private static readonly HttpClient _defaultHttpClient = new(_handler);
 
-    public HttpClientSender(IMapper mapper, IHttpClientFactory httpClientFactory)
+    public HttpClientSender(IMapper mapper)
     {
         this._mapper = mapper;
-        this._httpClientFactory = httpClientFactory;
-        this._defaultHttpClient = _httpClientFactory.CreateClient();
     }
 
     public IHttpClientSender UseClient(HttpClient httpClient)

@@ -1,8 +1,38 @@
 [
   {
+    "ContainingType": "Tutorial.API.Controllers.TestDIController",
+    "Method": "Index",
+    "RelativePath": "api/TestDI/Index1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestDIController",
+    "Method": "Index2",
+    "RelativePath": "api/TestDI/Index2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
-    "Method": "Get",
-    "RelativePath": "api/TestHttpClient/GetDataAsync",
+    "Method": "GetDataDefaultClientAsync",
+    "RelativePath": "api/TestHttpClient/GetDataDefaultClientAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
+    "Method": "GetDataUseClientAsync",
+    "RelativePath": "api/TestHttpClient/GetDataUseClientAsync",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

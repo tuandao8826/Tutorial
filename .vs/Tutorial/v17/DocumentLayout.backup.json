@@ -7,8 +7,48 @@
       "RelativeMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|solutionrelative:tutorial.infrastructure\\facades\\common\\httpclients\\httpclientsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|e:\\tuandao\\project\\tutorial\\tutorial.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|solutionrelative:tutorial.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|e:\\tuandao\\project\\tutorial\\tutorial.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|solutionrelative:tutorial.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|e:\\tuandao\\project\\tutorial\\tutorial.api\\logs\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|solutionrelative:tutorial.api\\logs\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|e:\\tuandao\\project\\tutorial\\tutorial.api\\controllers\\testhttpclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|solutionrelative:tutorial.api\\controllers\\testhttpclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|e:\\tuandao\\project\\tutorial\\tutorial.api\\controllers\\testdicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|solutionrelative:tutorial.api\\controllers\\testdicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|e:\\tuandao\\project\\tutorial\\tutorial.infrastructure\\services\\interfaces\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|solutionrelative:tutorial.infrastructure\\services\\interfaces\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|e:\\tuandao\\project\\tutorial\\tutorial.infrastructure\\services\\interfaces\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|solutionrelative:tutorial.infrastructure\\services\\interfaces\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|e:\\tuandao\\project\\tutorial\\tutorial.infrastructure\\services\\interfaces\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|solutionrelative:tutorial.infrastructure\\services\\interfaces\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|e:\\tuandao\\project\\tutorial\\tutorial.infrastructure\\services\\someservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|solutionrelative:tutorial.infrastructure\\services\\someservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|e:\\tuandao\\project\\tutorial\\tutorial.infrastructure\\facades\\common\\httpclients\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|solutionrelative:tutorial.infrastructure\\facades\\common\\httpclients\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|e:\\tuandao\\project\\tutorial\\tutorial.infrastructure\\facades\\common\\httpclients\\httpclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|solutionrelative:tutorial.infrastructure\\facades\\common\\httpclients\\httpclientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,28 +162,158 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "log.txt",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Logs\\log.txt",
+              "RelativeDocumentMoniker": "Tutorial.API\\Logs\\log.txt",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Logs\\log.txt",
+              "RelativeToolTip": "Tutorial.API\\Logs\\log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-07T12:02:32.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestHttpClientController.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Controllers\\TestHttpClientController.cs",
+              "RelativeDocumentMoniker": "Tutorial.API\\Controllers\\TestHttpClientController.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Controllers\\TestHttpClientController.cs",
+              "RelativeToolTip": "Tutorial.API\\Controllers\\TestHttpClientController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:51:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Tutorial.API\\appsettings.json",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\appsettings.json",
+              "RelativeToolTip": "Tutorial.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T11:42:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Program.cs",
+              "RelativeDocumentMoniker": "Tutorial.API\\Program.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Program.cs",
+              "RelativeToolTip": "Tutorial.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:26:00.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HttpClientSender.cs",
               "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSender.cs",
               "RelativeDocumentMoniker": "Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSender.cs",
               "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSender.cs",
               "RelativeToolTip": "Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSender.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwHcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T09:07:18.049Z",
+              "WhenOpened": "2024-10-07T11:38:06.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestHttpClientController.cs",
-              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Controllers\\TestHttpClientController.cs",
-              "RelativeDocumentMoniker": "Tutorial.API\\Controllers\\TestHttpClientController.cs",
-              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Controllers\\TestHttpClientController.cs",
-              "RelativeToolTip": "Tutorial.API\\Controllers\\TestHttpClientController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TestDIController.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Controllers\\TestDIController.cs",
+              "RelativeDocumentMoniker": "Tutorial.API\\Controllers\\TestDIController.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Controllers\\TestDIController.cs",
+              "RelativeToolTip": "Tutorial.API\\Controllers\\TestDIController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:56:13.905Z",
+              "WhenOpened": "2024-10-07T11:25:50.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SomeService .cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Services\\SomeService .cs",
+              "RelativeDocumentMoniker": "Tutorial.Infrastructure\\Services\\SomeService .cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Services\\SomeService .cs",
+              "RelativeToolTip": "Tutorial.Infrastructure\\Services\\SomeService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:25:01.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISingletonService.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Services\\Interfaces\\ISingletonService.cs",
+              "RelativeDocumentMoniker": "Tutorial.Infrastructure\\Services\\Interfaces\\ISingletonService.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Services\\Interfaces\\ISingletonService.cs",
+              "RelativeToolTip": "Tutorial.Infrastructure\\Services\\Interfaces\\ISingletonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:24:19.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IScopedService.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Services\\Interfaces\\IScopedService.cs",
+              "RelativeDocumentMoniker": "Tutorial.Infrastructure\\Services\\Interfaces\\IScopedService.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Services\\Interfaces\\IScopedService.cs",
+              "RelativeToolTip": "Tutorial.Infrastructure\\Services\\Interfaces\\IScopedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:24:05.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITransientService.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Services\\Interfaces\\ITransientService.cs",
+              "RelativeDocumentMoniker": "Tutorial.Infrastructure\\Services\\Interfaces\\ITransientService.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Services\\Interfaces\\ITransientService.cs",
+              "RelativeToolTip": "Tutorial.Infrastructure\\Services\\Interfaces\\ITransientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:23:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\Startup.cs",
+              "RelativeDocumentMoniker": "Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\Startup.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\Startup.cs",
+              "RelativeToolTip": "Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:19:30.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HttpClientSettings.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSettings.cs",
+              "RelativeDocumentMoniker": "Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSettings.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSettings.cs",
+              "RelativeToolTip": "Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:19:27.992Z",
               "EditorCaption": ""
             }
           ]

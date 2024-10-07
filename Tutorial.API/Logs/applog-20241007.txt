@@ -1,0 +1,235 @@
+2024-10-07 19:04:59.235 +07:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-10-07 19:04:59.341 +07:00 [DBG] Hosting starting
+2024-10-07 19:04:59.428 +07:00 [INF] Now listening on: http://localhost:5237
+2024-10-07 19:04:59.429 +07:00 [DBG] Loaded hosting startup assembly Tutorial.API
+2024-10-07 19:04:59.430 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2024-10-07 19:04:59.430 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-10-07 19:04:59.431 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-10-07 19:04:59.604 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-07 19:04:59.605 +07:00 [INF] Hosting environment: Development
+2024-10-07 19:04:59.606 +07:00 [INF] Content root path: E:\TuanDao\Project\Tutorial\Tutorial.API\
+2024-10-07 19:04:59.607 +07:00 [DBG] Hosting started
+2024-10-07 19:04:59.640 +07:00 [DBG] Connection id "0HN76P127H5B4" received FIN.
+2024-10-07 19:04:59.640 +07:00 [DBG] Connection id "0HN76P127H5B3" received FIN.
+2024-10-07 19:04:59.641 +07:00 [DBG] Connection id "0HN76P127H5B4" accepted.
+2024-10-07 19:04:59.641 +07:00 [DBG] Connection id "0HN76P127H5B3" accepted.
+2024-10-07 19:04:59.644 +07:00 [DBG] Connection id "0HN76P127H5B3" started.
+2024-10-07 19:04:59.644 +07:00 [DBG] Connection id "0HN76P127H5B4" started.
+2024-10-07 19:04:59.645 +07:00 [DBG] Connection id "0HN76P127H5B5" accepted.
+2024-10-07 19:04:59.647 +07:00 [DBG] Connection id "0HN76P127H5B6" accepted.
+2024-10-07 19:04:59.647 +07:00 [DBG] Connection id "0HN76P127H5B5" started.
+2024-10-07 19:04:59.648 +07:00 [DBG] Connection id "0HN76P127H5B6" started.
+2024-10-07 19:04:59.661 +07:00 [DBG] Connection id "0HN76P127H5B3" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-10-07 19:04:59.661 +07:00 [DBG] Connection id "0HN76P127H5B4" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-10-07 19:04:59.665 +07:00 [DBG] Connection id "0HN76P127H5B3" disconnecting.
+2024-10-07 19:04:59.666 +07:00 [DBG] Connection id "0HN76P127H5B4" disconnecting.
+2024-10-07 19:04:59.668 +07:00 [DBG] Connection id "0HN76P127H5B3" stopped.
+2024-10-07 19:04:59.668 +07:00 [DBG] Connection id "0HN76P127H5B4" stopped.
+2024-10-07 19:04:59.705 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/swagger/index.html - -
+2024-10-07 19:04:59.826 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-10-07 19:04:59.879 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2024-10-07 19:04:59.880 +07:00 [DBG] Request did not match any endpoints
+2024-10-07 19:04:59.884 +07:00 [DBG] The request path /swagger/index.html does not match an existing file
+2024-10-07 19:05:00.020 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-10-07 19:05:00.023 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-10-07 19:05:00.038 +07:00 [INF] HTTP GET /swagger/index.html responded 200 in 148.6882 ms
+2024-10-07 19:05:00.043 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-10-07 19:05:00.043 +07:00 [DBG] Connection id "0HN76P127H5B7" accepted.
+2024-10-07 19:05:00.044 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/_vs/browserLink - -
+2024-10-07 19:05:00.045 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-10-07 19:05:00.046 +07:00 [DBG] Connection id "0HN76P127H5B7" started.
+2024-10-07 19:05:00.048 +07:00 [DBG] Connection id "0HN76P127H5B5" completed keep alive response.
+2024-10-07 19:05:00.049 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/_framework/aspnetcore-browser-refresh.js - -
+2024-10-07 19:05:00.053 +07:00 [DBG] Connection id "0HN76P127H5B7" completed keep alive response.
+2024-10-07 19:05:00.053 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/swagger/index.html - - - 200 - text/html;charset=utf-8 353.3531ms
+2024-10-07 19:05:00.055 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/_framework/aspnetcore-browser-refresh.js - - - 200 13760 application/javascript;+charset=utf-8 5.5822ms
+2024-10-07 19:05:00.098 +07:00 [DBG] Connection id "0HN76P127H5B6" completed keep alive response.
+2024-10-07 19:05:00.099 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 55.2172ms
+2024-10-07 19:05:00.212 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/swagger/v1/swagger.json - -
+2024-10-07 19:05:00.213 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2024-10-07 19:05:00.214 +07:00 [DBG] Request did not match any endpoints
+2024-10-07 19:05:00.215 +07:00 [DBG] The request path /swagger/v1/swagger.json does not match an existing file
+2024-10-07 19:05:00.285 +07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 68.1339 ms
+2024-10-07 19:05:00.287 +07:00 [DBG] Connection id "0HN76P127H5B6" completed keep alive response.
+2024-10-07 19:05:00.288 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 75.5325ms
+2024-10-07 19:05:03.035 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/swagger/index.html - -
+2024-10-07 19:05:03.040 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2024-10-07 19:05:03.041 +07:00 [DBG] Request did not match any endpoints
+2024-10-07 19:05:03.042 +07:00 [DBG] The request path /swagger/index.html does not match an existing file
+2024-10-07 19:05:03.045 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-10-07 19:05:03.045 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-10-07 19:05:03.046 +07:00 [INF] HTTP GET /swagger/index.html responded 200 in 2.7595 ms
+2024-10-07 19:05:03.048 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-10-07 19:05:03.049 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-10-07 19:05:03.050 +07:00 [DBG] Connection id "0HN76P127H5B6" completed keep alive response.
+2024-10-07 19:05:03.051 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/swagger/index.html - - - 200 - text/html;charset=utf-8 16.7624ms
+2024-10-07 19:05:03.063 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/_vs/browserLink - -
+2024-10-07 19:05:03.063 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/_framework/aspnetcore-browser-refresh.js - -
+2024-10-07 19:05:03.065 +07:00 [DBG] Connection id "0HN76P127H5B6" completed keep alive response.
+2024-10-07 19:05:03.066 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/_framework/aspnetcore-browser-refresh.js - - - 200 13760 application/javascript;+charset=utf-8 3.2284ms
+2024-10-07 19:05:03.073 +07:00 [DBG] Connection id "0HN76P127H5B7" completed keep alive response.
+2024-10-07 19:05:03.074 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 11.0314ms
+2024-10-07 19:05:03.170 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/swagger/v1/swagger.json - -
+2024-10-07 19:05:03.171 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2024-10-07 19:05:03.173 +07:00 [DBG] Request did not match any endpoints
+2024-10-07 19:05:03.173 +07:00 [DBG] The request path /swagger/v1/swagger.json does not match an existing file
+2024-10-07 19:05:03.178 +07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.6316 ms
+2024-10-07 19:05:03.182 +07:00 [DBG] Connection id "0HN76P127H5B7" completed keep alive response.
+2024-10-07 19:05:03.184 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 14.0396ms
+2024-10-07 19:05:10.764 +07:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-10-07 19:05:10.862 +07:00 [DBG] Hosting starting
+2024-10-07 19:05:10.941 +07:00 [INF] Now listening on: http://localhost:5237
+2024-10-07 19:05:10.943 +07:00 [DBG] Loaded hosting startup assembly Tutorial.API
+2024-10-07 19:05:10.944 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2024-10-07 19:05:10.945 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-10-07 19:05:10.946 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-10-07 19:05:11.084 +07:00 [DBG] Connection id "0HN76P15KMHBM" received FIN.
+2024-10-07 19:05:11.093 +07:00 [DBG] Connection id "0HN76P15KMHBM" accepted.
+2024-10-07 19:05:11.096 +07:00 [DBG] Connection id "0HN76P15KMHBM" started.
+2024-10-07 19:05:11.115 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-07 19:05:11.113 +07:00 [DBG] Connection id "0HN76P15KMHBM" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-10-07 19:05:11.117 +07:00 [INF] Hosting environment: Development
+2024-10-07 19:05:11.118 +07:00 [INF] Content root path: E:\TuanDao\Project\Tutorial\Tutorial.API\
+2024-10-07 19:05:11.118 +07:00 [DBG] Connection id "0HN76P15KMHBM" disconnecting.
+2024-10-07 19:05:11.119 +07:00 [DBG] Hosting started
+2024-10-07 19:05:11.123 +07:00 [DBG] Connection id "0HN76P15KMHBM" stopped.
+2024-10-07 19:05:11.198 +07:00 [DBG] Connection id "0HN76P15KMHBN" accepted.
+2024-10-07 19:05:11.200 +07:00 [DBG] Connection id "0HN76P15KMHBN" started.
+2024-10-07 19:05:11.200 +07:00 [DBG] Connection id "0HN76P15KMHBO" accepted.
+2024-10-07 19:05:11.204 +07:00 [DBG] Connection id "0HN76P15KMHBO" started.
+2024-10-07 19:05:11.264 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/swagger/index.html - -
+2024-10-07 19:05:11.361 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-10-07 19:05:11.384 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2024-10-07 19:05:11.385 +07:00 [DBG] Request did not match any endpoints
+2024-10-07 19:05:11.387 +07:00 [DBG] The request path /swagger/index.html does not match an existing file
+2024-10-07 19:05:11.504 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-10-07 19:05:11.508 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-10-07 19:05:11.521 +07:00 [INF] HTTP GET /swagger/index.html responded 200 in 128.8941 ms
+2024-10-07 19:05:11.524 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/_framework/aspnetcore-browser-refresh.js - -
+2024-10-07 19:05:11.527 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-10-07 19:05:11.529 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-10-07 19:05:11.529 +07:00 [DBG] Connection id "0HN76P15KMHBN" completed keep alive response.
+2024-10-07 19:05:11.530 +07:00 [DBG] Connection id "0HN76P15KMHBO" completed keep alive response.
+2024-10-07 19:05:11.532 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/_framework/aspnetcore-browser-refresh.js - - - 200 13760 application/javascript;+charset=utf-8 7.3313ms
+2024-10-07 19:05:11.535 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/swagger/index.html - - - 200 - text/html;charset=utf-8 276.0111ms
+2024-10-07 19:05:11.552 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/_vs/browserLink - -
+2024-10-07 19:05:11.592 +07:00 [DBG] Connection id "0HN76P15KMHBN" completed keep alive response.
+2024-10-07 19:05:11.595 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.3508ms
+2024-10-07 19:05:11.891 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/swagger/v1/swagger.json - -
+2024-10-07 19:05:11.892 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2024-10-07 19:05:11.894 +07:00 [DBG] Request did not match any endpoints
+2024-10-07 19:05:11.895 +07:00 [DBG] The request path /swagger/v1/swagger.json does not match an existing file
+2024-10-07 19:05:11.976 +07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 80.2274 ms
+2024-10-07 19:05:11.980 +07:00 [DBG] Connection id "0HN76P15KMHBN" completed keep alive response.
+2024-10-07 19:05:11.981 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.0209ms
+2024-10-07 19:05:14.789 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/api/TestHttpClient/GetDataUseClientAsync - -
+2024-10-07 19:05:14.798 +07:00 [DBG] 1 candidate(s) found for the request path '/api/TestHttpClient/GetDataUseClientAsync'
+2024-10-07 19:05:14.805 +07:00 [DBG] Endpoint 'Tutorial.API.Controllers.TestHttpClientController.GetDataUseClientAsync (Tutorial.API)' with route pattern 'api/TestHttpClient/GetDataUseClientAsync' is valid for the request path '/api/TestHttpClient/GetDataUseClientAsync'
+2024-10-07 19:05:14.807 +07:00 [DBG] Request matched endpoint 'Tutorial.API.Controllers.TestHttpClientController.GetDataUseClientAsync (Tutorial.API)'
+2024-10-07 19:05:14.808 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-10-07 19:05:14.810 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-10-07 19:05:14.813 +07:00 [INF] Executing endpoint 'Tutorial.API.Controllers.TestHttpClientController.GetDataUseClientAsync (Tutorial.API)'
+2024-10-07 19:05:14.848 +07:00 [INF] Route matched with {action = "GetDataUseClient", controller = "TestHttpClient"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetDataUseClientAsync() on controller Tutorial.API.Controllers.TestHttpClientController (Tutorial.API).
+2024-10-07 19:05:14.851 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-10-07 19:05:14.853 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-10-07 19:05:14.854 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-10-07 19:05:14.856 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-10-07 19:05:14.858 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-10-07 19:05:14.860 +07:00 [DBG] Executing controller factory for controller Tutorial.API.Controllers.TestHttpClientController (Tutorial.API)
+2024-10-07 19:05:14.985 +07:00 [DBG] Executed controller factory for controller Tutorial.API.Controllers.TestHttpClientController (Tutorial.API)
+2024-10-07 19:05:14.995 +07:00 [INF] Start processing HTTP request GET https://jsonplaceholder.typicode.com/posts
+2024-10-07 19:05:15.000 +07:00 [INF] Sending HTTP request GET https://jsonplaceholder.typicode.com/posts
+2024-10-07 19:05:15.205 +07:00 [INF] Received HTTP response headers after 199.0946ms - 200
+2024-10-07 19:05:15.208 +07:00 [INF] End processing HTTP request after 215.5404ms - 200
+2024-10-07 19:05:15.225 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-10-07 19:05:15.230 +07:00 [DBG] No information found on request to perform content negotiation.
+2024-10-07 19:05:15.231 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-10-07 19:05:15.232 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-10-07 19:05:15.233 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2024-10-07 19:05:15.236 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-10-07 19:05:15.244 +07:00 [INF] Executed action Tutorial.API.Controllers.TestHttpClientController.GetDataUseClientAsync (Tutorial.API) in 378.9282ms
+2024-10-07 19:05:15.246 +07:00 [INF] Executed endpoint 'Tutorial.API.Controllers.TestHttpClientController.GetDataUseClientAsync (Tutorial.API)'
+2024-10-07 19:05:15.249 +07:00 [INF] HTTP GET /api/TestHttpClient/GetDataUseClientAsync responded 200 in 439.4838 ms
+2024-10-07 19:05:15.251 +07:00 [DBG] Connection id "0HN76P15KMHBN" completed keep alive response.
+2024-10-07 19:05:15.252 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/api/TestHttpClient/GetDataUseClientAsync - - - 200 - text/plain;+charset=utf-8 463.6569ms
+2024-10-07 19:05:21.385 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/api/TestHttpClient/GetDataDefaultClientAsync - -
+2024-10-07 19:05:21.390 +07:00 [DBG] 1 candidate(s) found for the request path '/api/TestHttpClient/GetDataDefaultClientAsync'
+2024-10-07 19:05:21.391 +07:00 [DBG] Endpoint 'Tutorial.API.Controllers.TestHttpClientController.GetDataDefaultClientAsync (Tutorial.API)' with route pattern 'api/TestHttpClient/GetDataDefaultClientAsync' is valid for the request path '/api/TestHttpClient/GetDataDefaultClientAsync'
+2024-10-07 19:05:21.393 +07:00 [DBG] Request matched endpoint 'Tutorial.API.Controllers.TestHttpClientController.GetDataDefaultClientAsync (Tutorial.API)'
+2024-10-07 19:05:21.394 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-10-07 19:05:21.396 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-10-07 19:05:21.396 +07:00 [INF] Executing endpoint 'Tutorial.API.Controllers.TestHttpClientController.GetDataDefaultClientAsync (Tutorial.API)'
+2024-10-07 19:05:21.401 +07:00 [INF] Route matched with {action = "GetDataDefaultClient", controller = "TestHttpClient"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetDataDefaultClientAsync() on controller Tutorial.API.Controllers.TestHttpClientController (Tutorial.API).
+2024-10-07 19:05:21.403 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-10-07 19:05:21.405 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-10-07 19:05:21.407 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-10-07 19:05:21.409 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-10-07 19:05:21.411 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-10-07 19:05:21.414 +07:00 [DBG] Executing controller factory for controller Tutorial.API.Controllers.TestHttpClientController (Tutorial.API)
+2024-10-07 19:05:21.415 +07:00 [DBG] Executed controller factory for controller Tutorial.API.Controllers.TestHttpClientController (Tutorial.API)
+2024-10-07 19:05:21.419 +07:00 [INF] --->_request Info: 
+Method: GET, RequestUri: 'https://jsonplaceholder.typicode.com/posts', Version: 1.1, Content: <null>, Headers:
+{
+}
+---> End
+2024-10-07 19:05:21.527 +07:00 [INF] ---> Response Info: 
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Expires: -1
+}', Duration: 
+00:00:00.1018262
+---> End
+2024-10-07 19:05:21.530 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-10-07 19:05:21.532 +07:00 [DBG] No information found on request to perform content negotiation.
+2024-10-07 19:05:21.533 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-10-07 19:05:21.535 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-10-07 19:05:21.536 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2024-10-07 19:05:21.538 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-10-07 19:05:21.539 +07:00 [INF] Executed action Tutorial.API.Controllers.TestHttpClientController.GetDataDefaultClientAsync (Tutorial.API) in 125.4897ms
+2024-10-07 19:05:21.541 +07:00 [INF] Executed endpoint 'Tutorial.API.Controllers.TestHttpClientController.GetDataDefaultClientAsync (Tutorial.API)'
+2024-10-07 19:05:21.542 +07:00 [INF] HTTP GET /api/TestHttpClient/GetDataDefaultClientAsync responded 200 in 146.3953 ms
+2024-10-07 19:05:21.544 +07:00 [DBG] Connection id "0HN76P15KMHBN" completed keep alive response.
+2024-10-07 19:05:21.546 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/api/TestHttpClient/GetDataDefaultClientAsync - - - 200 - text/plain;+charset=utf-8 160.2434ms
+2024-10-07 19:06:27.060 +07:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-10-07 19:06:27.159 +07:00 [DBG] Hosting starting
+2024-10-07 19:06:27.240 +07:00 [INF] Now listening on: http://localhost:5237
+2024-10-07 19:06:27.241 +07:00 [DBG] Loaded hosting startup assembly Tutorial.API
+2024-10-07 19:06:27.242 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2024-10-07 19:06:27.243 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-10-07 19:06:27.244 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-10-07 19:06:27.411 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-07 19:06:27.412 +07:00 [INF] Hosting environment: Development
+2024-10-07 19:06:27.413 +07:00 [INF] Content root path: E:\TuanDao\Project\Tutorial\Tutorial.API\
+2024-10-07 19:06:27.414 +07:00 [DBG] Hosting started
+2024-10-07 19:06:27.561 +07:00 [DBG] Connection id "0HN76P1SE0JUV" accepted.
+2024-10-07 19:06:27.563 +07:00 [DBG] Connection id "0HN76P1SE0JUV" started.
+2024-10-07 19:06:27.563 +07:00 [DBG] Connection id "0HN76P1SE0JV0" accepted.
+2024-10-07 19:06:27.565 +07:00 [DBG] Connection id "0HN76P1SE0JV0" started.
+2024-10-07 19:06:27.622 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/swagger/index.html - -
+2024-10-07 19:06:27.723 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-10-07 19:06:27.745 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2024-10-07 19:06:27.746 +07:00 [DBG] Request did not match any endpoints
+2024-10-07 19:06:27.748 +07:00 [DBG] The request path /swagger/index.html does not match an existing file
+2024-10-07 19:06:27.872 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-10-07 19:06:27.876 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-10-07 19:06:27.891 +07:00 [INF] HTTP GET /swagger/index.html responded 200 in 136.4252 ms
+2024-10-07 19:06:27.898 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-10-07 19:06:27.901 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-10-07 19:06:27.902 +07:00 [DBG] Connection id "0HN76P1SE0JV1" accepted.
+2024-10-07 19:06:27.905 +07:00 [DBG] Connection id "0HN76P1SE0JUV" completed keep alive response.
+2024-10-07 19:06:27.906 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/_framework/aspnetcore-browser-refresh.js - -
+2024-10-07 19:06:27.906 +07:00 [DBG] Connection id "0HN76P1SE0JV1" started.
+2024-10-07 19:06:27.910 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/_vs/browserLink - -
+2024-10-07 19:06:27.910 +07:00 [DBG] Connection id "0HN76P1SE0JV0" completed keep alive response.
+2024-10-07 19:06:27.912 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/_framework/aspnetcore-browser-refresh.js - - - 200 13760 application/javascript;+charset=utf-8 6.5305ms
+2024-10-07 19:06:27.910 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/swagger/index.html - - - 200 - text/html;charset=utf-8 292.3419ms
+2024-10-07 19:06:27.952 +07:00 [DBG] Connection id "0HN76P1SE0JV1" completed keep alive response.
+2024-10-07 19:06:27.953 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.7897ms
+2024-10-07 19:06:28.030 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5237/swagger/v1/swagger.json - -
+2024-10-07 19:06:28.031 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2024-10-07 19:06:28.032 +07:00 [DBG] Request did not match any endpoints
+2024-10-07 19:06:28.035 +07:00 [DBG] The request path /swagger/v1/swagger.json does not match an existing file
+2024-10-07 19:06:28.115 +07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 78.9062 ms
+2024-10-07 19:06:28.117 +07:00 [DBG] Connection id "0HN76P1SE0JV1" completed keep alive response.
+2024-10-07 19:06:28.119 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5237/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 88.6829ms
