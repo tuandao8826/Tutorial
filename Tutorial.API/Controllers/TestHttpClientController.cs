@@ -12,12 +12,10 @@ namespace Tutorial.API.Controllers
     public class TestHttpClientController : ControllerBase
     {
         private readonly IHttpClientSender _httpClientSender;
-        private readonly HttpClient _httpClient;
 
-        public TestHttpClientController(IHttpClientSender httpClientSender, HttpClient httpClient)
+        public TestHttpClientController(IHttpClientSender httpClientSender)
         {
             this._httpClientSender = httpClientSender;
-            this._httpClient = httpClient;
         }
 
         [HttpGet("GetDataAsync")]
@@ -26,7 +24,6 @@ namespace Tutorial.API.Controllers
             var urlString = "https://jsonplaceholder.typicode.com/posts";
 
             var result = await _httpClientSender
-                //.UseClient(_httpClient)
                 .WithUri(urlString)
                 .UseMethod(HttpMethod.Get)
                 .SendAsync();
@@ -47,7 +44,6 @@ namespace Tutorial.API.Controllers
             };
 
             var result = await _httpClientSender
-                .UseClient(_httpClient)
                 .WithUri(urlString)
                 .UseMethod(HttpMethod.Post)
                 .WithContent(HttpClientExtensions.ToStringContent(post))

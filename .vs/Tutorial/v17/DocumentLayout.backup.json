@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\TuanDao\\Project\\Tutorial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|e:\\tuandao\\project\\tutorial\\tutorial.infrastructure\\facades\\common\\httpclients\\httpclientsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1E7F3-779D-4837-9D5C-7D9F82684190}|Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj|solutionrelative:tutorial.infrastructure\\facades\\common\\httpclients\\httpclientsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|e:\\tuandao\\project\\tutorial\\tutorial.api\\controllers\\testhttpclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{057A1A90-3B29-47E6-9372-A57063D34A7F}|Tutorial.API\\Tutorial.API.csproj|solutionrelative:tutorial.api\\controllers\\testhttpclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -119,14 +123,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HttpClientSender.cs",
+              "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSender.cs",
+              "RelativeDocumentMoniker": "Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSender.cs",
+              "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSender.cs",
+              "RelativeToolTip": "Tutorial.Infrastructure\\Facades\\Common\\HttpClients\\HttpClientSender.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:07:18.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TestHttpClientController.cs",
               "DocumentMoniker": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Controllers\\TestHttpClientController.cs",
               "RelativeDocumentMoniker": "Tutorial.API\\Controllers\\TestHttpClientController.cs",
               "ToolTip": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Controllers\\TestHttpClientController.cs",
               "RelativeToolTip": "Tutorial.API\\Controllers\\TestHttpClientController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:46:58.938Z",
+              "WhenOpened": "2024-10-07T08:56:13.905Z",
               "EditorCaption": ""
             }
           ]

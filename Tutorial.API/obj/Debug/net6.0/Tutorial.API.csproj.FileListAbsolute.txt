@@ -35,3 +35,11 @@ E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\AutoMapper.dll
 E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Serilog.dll
 E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Tutorial.Infrastructure.dll
 E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Tutorial.Infrastructure.pdb
+E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\TuanDao\Project\Tutorial\Tutorial.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
