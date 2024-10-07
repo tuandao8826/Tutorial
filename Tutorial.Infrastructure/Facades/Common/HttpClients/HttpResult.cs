@@ -35,7 +35,6 @@ namespace Tutorial.Infrastructure.Facades.Common.HttpClients
             LogException(requestException);
         }
 
-
         public async Task<string?> ReadAsStringAsync(CancellationToken cancellationToken = default)
         {
             try
