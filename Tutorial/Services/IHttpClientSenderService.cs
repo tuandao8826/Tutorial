@@ -1,4 +1,6 @@
-﻿namespace Tutorial.Services
+﻿using Tutorial.Commons.Extentions;
+
+namespace Tutorial.Services
 {
     public interface IHttpClientSenderService
     {

@@ -2,6 +2,7 @@
 using System.Net;
 using System.Text;
 using System.Text.Json;
+using Tutorial.Repositories;
 using Tutorial.Services;
 using Tutorial.Services.Implementations;
 
@@ -9,7 +10,6 @@ namespace Tutorial.Commons.Extentions
 {
     public class HttpResult : HttpResponseMessage
     {
-        private readonly IHttpResultService _httpResultService;
         public TimeSpan Duration { get; internal set; }
 
         public event Action<Exception>? OnError;
@@ -18,15 +18,15 @@ namespace Tutorial.Commons.Extentions
         {
             Log.Error("---> An error occurred: {error}", ex);
         };
+        private readonly IHttpResultRepository _httpResultRepository;
 
-        public HttpResult()
+        public HttpResult(IHttpResultRepository httpResultRepository)
         {
-            _httpResultService = new HttpResultService(this.Content);
+            this._httpResultRepository = httpResultRepository;
         }
 
         public HttpResult(TimeSpan duration, Exception requestException, HttpRequestMessage request)
         {
-            _httpResultService = new HttpResultService(this.Content);
             Duration = duration;
             RequestMessage = request;
             StatusCode = HttpStatusCode.InternalServerError;
@@ -37,7 +37,7 @@ namespace Tutorial.Commons.Extentions
         {
             try
             {
-                return await _httpResultService.ReadAsStringAsync(cancellationToken).ConfigureAwait(false);
+                return await _httpResultRepository.ReadAsStringAsync(cancellationToken).ConfigureAwait(false);
             }
             catch (Exception ex)
             {
@@ -51,7 +51,7 @@ namespace Tutorial.Commons.Extentions
         {
             try
             {
-                return await _httpResultService.ReadFromJsonAsync<TResponse>(options, cancellationToken).ConfigureAwait(false);
+                return await _httpResultRepository.ReadFromJsonAsync<TResponse>(options, cancellationToken).ConfigureAwait(false);
             }
             catch (Exception ex)
             {
@@ -65,7 +65,7 @@ namespace Tutorial.Commons.Extentions
         {
             try
             {
-                return await _httpResultService.ReadAsStreamAsync(cancellationToken).ConfigureAwait(false);
+                return await _httpResultRepository.ReadAsStreamAsync(cancellationToken).ConfigureAwait(false);
             }
             catch (Exception ex)
             {
@@ -79,7 +79,7 @@ namespace Tutorial.Commons.Extentions
         {
             try
             {
-                return await _httpResultService.ReadAsByteArrayAsync(cancellationToken).ConfigureAwait(false);
+                return await _httpResultRepository.ReadAsByteArrayAsync(cancellationToken).ConfigureAwait(false);
             }
             catch (Exception ex)
             {

@@ -1,4 +1,10 @@
-﻿namespace Tutorial.Services.Implementations
+﻿using AutoMapper;
+using Serilog;
+using System.Collections;
+using System.Globalization;
+using Tutorial.Commons.Extentions;
+
+namespace Tutorial.Services.Implementations
 {
     public class HttpClientSenderService : IHttpClientSenderService
     {

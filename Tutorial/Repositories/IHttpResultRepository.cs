@@ -1,8 +1,8 @@
 ﻿using System.Text.Json;
 
-namespace Tutorial.Services
+namespace Tutorial.Repositories
 {
-    public interface IHttpResultService
+    public interface IHttpResultRepository
     {
         Task<string?> ReadAsStringAsync(CancellationToken cancellationToken = default);
         Task<TResponse?> ReadFromJsonAsync<TResponse>(JsonSerializerOptions? options = null, CancellationToken cancellationToken = default);
