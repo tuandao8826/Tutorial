@@ -1,5 +1,7 @@
 ﻿using Tutorial.Repositories;
+using Tutorial.Repositories.Implementations;
 using Tutorial.Services;
+using Tutorial.Services.Implementations;
 
 namespace Tutorial.Commons.Extentions
 {

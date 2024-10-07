@@ -1,6 +1,6 @@
 ﻿using Tutorial.Models;
 
-namespace Tutorial.Repositories
+namespace Tutorial.Repositories.Implementations
 {
     public class ProductRepository : IProductRepository
     {

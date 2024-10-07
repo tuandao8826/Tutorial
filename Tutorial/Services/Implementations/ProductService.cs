@@ -1,7 +1,7 @@
 ﻿using Tutorial.Models;
 using Tutorial.Repositories;
 
-namespace Tutorial.Services
+namespace Tutorial.Services.Implementations
 {
     public class ProductService : IProductService
     {
