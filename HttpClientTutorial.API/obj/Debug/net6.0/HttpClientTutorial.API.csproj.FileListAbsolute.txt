@@ -58,3 +58,5 @@ C:\Huflit_Study_Material\Project\MyWork\AltaSoftware\project\Tutorial\HttpClient
 C:\Huflit_Study_Material\Project\MyWork\AltaSoftware\project\Tutorial\HttpClientTutorial.API\obj\Debug\net6.0\HttpClientTutorial.API.pdb
 C:\Huflit_Study_Material\Project\MyWork\AltaSoftware\project\Tutorial\HttpClientTutorial.API\obj\Debug\net6.0\HttpClientTutorial.API.genruntimeconfig.cache
 C:\Huflit_Study_Material\Project\MyWork\AltaSoftware\project\Tutorial\HttpClientTutorial.API\obj\Debug\net6.0\ref\HttpClientTutorial.API.dll
+E:\TuanDao\Project\Tutorial\HttpClientTutorial.API\bin\Debug\net6.0\AutoMapper.dll
+E:\TuanDao\Project\Tutorial\HttpClientTutorial.API\bin\Debug\net6.0\Serilog.dll
